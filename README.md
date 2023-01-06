@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Pranav Katte</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+<img align="Center" alt="Artificial Intelligence" width="400" src="https://i.gifer.com/QWc9.gif">
 
 - 🔭 I’m currently working on [Optimizing Algorithms using Parallelism](https://github.com/Pranav-kat/Optimizing-Algorithms)
 

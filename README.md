@@ -2,8 +2,9 @@
 
 <h1 align="center">Hello, I'm Pranav Katte</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="center" alt="Artificial Intelligence" width="400" src="https://i.gifer.com/QWc9.gif">
 
+<img align="center" alt="Artificial Intelligence" src="https://i.gifer.com/QWc9.gif">
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 - 🔭 I’m currently working on [Optimizing Algorithms using Parallelism](https://github.com/Pranav-kat/Optimizing-Algorithms)
 
 - 🌱 I’m currently learning **Deep Learning**

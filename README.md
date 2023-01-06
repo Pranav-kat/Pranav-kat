@@ -1,3 +1,5 @@
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://github.com/Pranav-kat)
+
 <h1 align="center">Hello, I'm Pranav Katte</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="center" alt="Artificial Intelligence" width="400" src="https://i.gifer.com/QWc9.gif">

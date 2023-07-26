@@ -1,13 +1,13 @@
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://github.com/Pranav-kat)
 
 <h1 align="center">Hello, I'm Pranav Katte</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate DEVELOPER from India</h3>
 <img align="right" alt="Artificial Intelligence" width="200rem" src="https://media2.giphy.com/media/IUNycHoVqvLDowiiam/200w.webp?cid=ecf05e47rmp01d7rnvu6lupiyzqzlos3u847wisgq0krm1hg&rid=200w.webp&ct=s">
-- 🔭 I’m currently working on [Optimizing Algorithms using Parallelism](https://github.com/Pranav-kat/Optimizing-Algorithms)
+- 🔭 I’m currently working on [Web3](https://github.com/Pranav-kat/Proximity_Token) 
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data Science & WEB3**
 
 - 📫 How to reach me **pranavkatte07@gmail.com**
 
